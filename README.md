@@ -11,6 +11,9 @@ Execute npm start:server
 Execute npm install,
 Execute npm start
 
+User valid
+Use Id number 0000 or 1111 in home page.
+
 
 # Getting Started with Create React App
 
