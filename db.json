@@ -1,0 +1,61 @@
+{
+    "employees": [{
+            "id": 1,
+            "name": "John",
+            "registration": "0000",
+            "registries": {
+                "currentDay": [{
+                        "name": "arriving",
+                        "date": "2021-04-21T08:00:00",
+                        "actived": false,
+                        "order": 0
+                    },
+                    {
+                        "name": "lunchStart",
+                        "date": "2021-04-21T12:00:00",
+                        "actived": false,
+                        "order": 1
+                    },
+                    {
+                        "name": "lunchStop",
+                        "date": "2021-04-21T13:00:00",
+                        "actived": false,
+                        "order": 2
+                    },
+                    {
+                        "name": "exiting",
+                        "date": null,
+                        "actived": true,
+                        "order": 3
+                    },
+                    {
+                        "name": "extraStart",
+                        "date": null,
+                        "actived": false,
+                        "order": 4
+                    },
+                    {
+                        "name": "extraStop",
+                        "date": null,
+                        "actived": false,
+                        "order": 5
+                    },
+                    {
+                        "name": "amount",
+                        "date": null,
+                        "actived": false,
+                        "order": 6
+                    }
+                ],
+                "days": [
+
+                ]
+            }
+        },
+        {
+            "id": 2,
+            "name": "Rick",
+            "registration": "1111"
+        }
+    ]
+}
